@@ -1,0 +1,38 @@
+--- 输入账户密码等
+2024-02-27 17:10:10.860 automation.py[79] main -> Starts, Current Cursor Position: (417, 371)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: '桌面 1'    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: #32770    AutomationId:     Rect: (208,311,1046,756)[838x445]    Name: 'FFCS_SOM 1.2.1_2'    Handle: 0x29073C(2688828)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: EditControl    ClassName: Edit    AutomationId: 1000    Rect: (339,450,564,489)[225x39]    Name: ''    Handle: 0x90768(591720)    Depth: 2    ValuePattern.Value: ''    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+        ControlType: EditControl    ClassName: Edit    AutomationId: 1001    Rect: (339,508,564,549)[225x41]    Name: ''    Handle: 0x100546(1049926)    Depth: 2    ValuePattern.Value: ''    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+        ControlType: ButtonControl    ClassName: Button    AutomationId: 1003    Rect: (439,585,564,624)[125x39]    Name: '高级>>'    Handle: 0x1D065E(1902174)    Depth: 2    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+        ControlType: ButtonControl    ClassName: Button    AutomationId: 1    Rect: (281,662,406,701)[125x39]    Name: '确定'    Handle: 0xB076C(722796)    Depth: 2    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+        ControlType: ButtonControl    ClassName: Button    AutomationId: 2    Rect: (439,662,564,701)[125x39]    Name: '取消'    Handle: 0x1706F4(1509108)    Depth: 2    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+        ControlType: EditControl    ClassName: Edit    AutomationId: 1007    Rect: (729,450,964,491)[235x41]    Name: ''    Handle: 0x1004EC(1049836)    Depth: 2    ValuePattern.Value: ''    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+        ControlType: EditControl    ClassName: Edit    AutomationId: 1009    Rect: (729,505,964,546)[235x41]    Name: ''    Handle: 0xD04D2(853202)    Depth: 2    ValuePattern.Value: ''    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+        ControlType: TextControl    ClassName: Static    AutomationId:     Rect: (271,453,326,475)[55x22]    Name: '账号：'    Handle: 0x100536(1049910)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId: 1023    Rect: (269,510,324,532)[55x22]    Name: '密码：'    Handle: 0x130798(1247128)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId: 1004    Rect: (616,455,706,477)[90x22]    Name: '认证IP:Port'    Handle: 0x11055A(1115482)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId: 1010    Rect: (616,516,669,538)[53x22]    Name: '代理IP'    Handle: 0x12056C(1181036)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (235,314,1043,348)[808x34]    Name: ''    Handle: 0x0(0)    Depth: 2    ValuePattern.Value: 'FFCS_SOM 1.2.1_2'    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (146,215,168,237)[22x22]    Name: '系统'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (146,215,168,237)[22x22]    Name: '系统'    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (992,312,1044,348)[52x36]    Name: '关 闭'    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2024-02-27 17:10:16.207 automation.py[114] main -> Ends
+
+--- 发送验证码
+2024-02-27 17:32:22.795 automation.py[79] main -> Starts, Current Cursor Position: (399, 229)
+ControlType: PaneControl    ClassName: #32769    AutomationId:     Rect: (0,0,1920,1080)[1920x1080]    Name: '桌面 1'    Handle: 0x10010(65552)    Depth: 0    SupportedPattern: LegacyIAccessiblePattern
+    ControlType: WindowControl    ClassName: #32770    AutomationId:     Rect: (205,212,659,516)[454x304]    Name: 'FFCS_SOM 1.2.1_2'    Handle: 0x1F06E0(2033376)    Depth: 1    SupportedPattern: LegacyIAccessiblePattern TransformPattern WindowPattern
+        ControlType: EditControl    ClassName: Edit    AutomationId: 1000    Rect: (357,297,533,330)[176x33]    Name: ''    Handle: 0x4505E6(4523494)    Depth: 2    ValuePattern.Value: ''    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+        ControlType: ButtonControl    ClassName: Button    AutomationId: 1    Rect: (271,437,384,470)[113x33]    Name: '确定'    Handle: 0x190766(1640294)    Depth: 2    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+        ControlType: ButtonControl    ClassName: Button    AutomationId: 2    Rect: (483,434,596,467)[113x33]    Name: '取消'    Handle: 0x140756(1312598)    Depth: 2    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId:     Rect: (276,304,355,323)[79x19]    Name: '验证码 ：'    Handle: 0x3A0718(3802904)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId: 1011    Rect: (260,358,609,427)[349x69]    Name: '短信验证码已发送至您的手机,短信...    Handle: 0x120774(1181556)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TextControl    ClassName: Static    AutomationId: 1012    Rect: (552,304,617,323)[65x19]    Name: '152'    Handle: 0x140578(1312120)    Depth: 2    SupportedPattern: LegacyIAccessiblePattern
+        ControlType: TitleBarControl    ClassName:     AutomationId:     Rect: (232,215,656,249)[424x34]    Name: ''    Handle: 0x0(0)    Depth: 2    ValuePattern.Value: 'FFCS_SOM 1.2.1_2'    SupportedPattern: LegacyIAccessiblePattern ValuePattern
+            ControlType: MenuBarControl    ClassName:     AutomationId: MenuBar    Rect: (144,149,166,171)[22x22]    Name: '系统'    Handle: 0x0(0)    Depth: 3    SupportedPattern: LegacyIAccessiblePattern
+                ControlType: MenuItemControl    ClassName:     AutomationId:     Rect: (144,149,166,171)[22x22]    Name: '系统'    Handle: 0x0(0)    Depth: 4    ExpandCollapsePattern.ExpandCollapseState: ExpandCollapseState.Collapsed    SupportedPattern: ExpandCollapsePattern InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (445,213,516,249)[71x36]    Name: '最小化'    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (516,213,586,249)[70x36]    Name: '最大化'    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+            ControlType: ButtonControl    ClassName:     AutomationId:     Rect: (586,213,657,249)[71x36]    Name: '关闭'    Handle: 0x0(0)    Depth: 3    SupportedPattern: InvokePattern LegacyIAccessiblePattern
+2024-02-27 17:32:27.605 automation.py[114] main -> Ends
