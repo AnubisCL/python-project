@@ -1,0 +1,9 @@
+2: https://m3u8.hmrvideo.com/play/8f3040bc1d2e466d9e7d559f1311493b.m3u8
+3: https://m3u8.hmrvideo.com/play/535707e90dfa42028492d5e5d116d4b0.m3u8
+4: https://m3u8.hmrvideo.com/play/482b661b9ffd4a4aa61c0fb036547b93.m3u8
+5: https://m3u8.hmrvideo.com/play/3de681f76fa0456d89c52091852f134f.m3u8
+6: https://m3u8.hmrvideo.com/play/39a5125ba7244e929499b872a1f1e58e.m3u8
+7: https://m3u8.hmrvideo.com/play/5c1fcb3db8d44a9ea7ae0083335348a7.m3u8
+8: https://m3u8.hmrvideo.com/play/aaf005ccd62843d0849277c571f562d1.m3u8
+9: https://m3u8.hmrvideo.com/play/3179280546124fd4a78787d1f84b29a5.m3u8
+11: https://m3u8.hmrvideo.com/play/4634c6ab46414c5592fa5ed21be2781c.m3u8

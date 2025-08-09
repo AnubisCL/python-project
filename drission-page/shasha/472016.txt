@@ -1,0 +1,4 @@
+7: https://m3u8.hmrvideo.com/play/01c350dfc602485f9022c83f52089794.m3u8
+8: https://m3u8.hmrvideo.com/play/50f3220f803745549ad3d060e5ba1578.m3u8
+9: https://m3u8.hmrvideo.com/play/42e5305591ab48bb81a340f7cc1197a6.m3u8
+10: https://cdn.wlcdn99.com:777/675f208a/index.m3u8
