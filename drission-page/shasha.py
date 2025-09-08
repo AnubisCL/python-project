@@ -4,8 +4,8 @@ import os
 from DrissionPage._configs.chromium_options import ChromiumOptions
 from DrissionPage._pages.web_page import WebPage
 
-VIDEO_ID = '530497'  # todo 1.视频id
-video_line = '/61'  # todo 2.视频线路,可以为空，需要‘/56’
+VIDEO_ID = '114272'  # todo 1.视频id
+video_line = ''  # todo 2.视频线路,可以为空，需要‘/56’
 
 url_index = 'https://shasha.one/v/' + VIDEO_ID
 video_index = 'https://shasha.one/' + VIDEO_ID + '/'
